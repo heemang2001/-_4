@@ -21,5 +21,14 @@
     <ClCompile Include="상하좌우.cpp">
       <Filter>소스 파일\동빈나</Filter>
     </ClCompile>
+    <ClCompile Include="시각.cpp">
+      <Filter>소스 파일\동빈나</Filter>
+    </ClCompile>
+    <ClCompile Include="왕실의 나이트.cpp">
+      <Filter>소스 파일\동빈나</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 재정렬.cpp">
+      <Filter>소스 파일\동빈나</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
