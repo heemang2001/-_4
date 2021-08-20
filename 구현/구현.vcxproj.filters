@@ -30,5 +30,11 @@
     <ClCompile Include="문자열 재정렬.cpp">
       <Filter>소스 파일\동빈나</Filter>
     </ClCompile>
+    <ClCompile Include="기찍 N.cpp">
+      <Filter>소스 파일\동빈나</Filter>
+    </ClCompile>
+    <ClCompile Include="인구 이동.cpp">
+      <Filter>소스 파일\동빈나</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
