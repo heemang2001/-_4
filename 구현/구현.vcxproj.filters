@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\동빈나">
       <UniqueIdentifier>{8047bcce-2edb-48b9-9eef-4fdbfc2bf4ca}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준">
+      <UniqueIdentifier>{fd477c0a-dbc5-47c6-8182-04a7f4e3b09a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="상하좌우.cpp">
@@ -31,10 +34,13 @@
       <Filter>소스 파일\동빈나</Filter>
     </ClCompile>
     <ClCompile Include="기찍 N.cpp">
-      <Filter>소스 파일\동빈나</Filter>
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="인구 이동.cpp">
-      <Filter>소스 파일\동빈나</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="빠른 A+B.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
