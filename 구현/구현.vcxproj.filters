@@ -90,5 +90,8 @@
     <ClCompile Include="그대로 출력하기.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="정수 N개의 합.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
