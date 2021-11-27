@@ -114,5 +114,8 @@
     <ClCompile Include="다이얼.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="KMP는 왜 KMP일까.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
