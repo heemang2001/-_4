@@ -126,5 +126,8 @@
     <ClCompile Include="지능형 기차.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="열 개씩 끊어 출력하기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
