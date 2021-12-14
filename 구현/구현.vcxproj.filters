@@ -129,5 +129,8 @@
     <ClCompile Include="열 개씩 끊어 출력하기.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="뒤집힌 덧셈.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
