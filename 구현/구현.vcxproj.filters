@@ -141,5 +141,8 @@
     <ClCompile Include="팰린드롬수.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="로봇 청소기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
