@@ -150,5 +150,8 @@
     <ClCompile Include="요세푸스 문제 0.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="지구 온난화.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
